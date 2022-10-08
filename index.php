@@ -12,6 +12,15 @@
     <title>Test</title>
 </head>
 <body>
+    <nav>
+        <ul>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+        </ul>
+    </nav>
     <div>
         <h1>ceci est un test.</h1>
     </div>
